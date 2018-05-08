@@ -1,0 +1,22 @@
+.backgr1{
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+/*
+  background-image: url('../img/back.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center center;
+*/
+}
+
+#mgacontainer {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left:0;
+  right: 0;
+  background-color: #ff0000;
+}
